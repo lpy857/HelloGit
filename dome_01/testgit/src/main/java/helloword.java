@@ -8,6 +8,7 @@ public class helloword {
 
         System.out.println("创建本地仓库");
         System.out.println("第二次提交");
+        System.out.println("创建分支");
 
     }
 }
